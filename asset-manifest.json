@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.b8e88b4e.css",
-    "main.js": "/Ecommerce/static/js/main.6ad81f57.js",
+    "main.css": "/Ecommerce/static/css/main.2fedef5e.css",
+    "main.js": "/Ecommerce/static/js/main.cd5a34fb.js",
     "static/js/787.bd02f72e.chunk.js": "/Ecommerce/static/js/787.bd02f72e.chunk.js",
     "static/media/light-patten.svg": "/Ecommerce/static/media/light-patten.ed706aff39a009de4e80.svg",
     "static/media/fa-solid-900.ttf": "/Ecommerce/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
     "static/media/fa-brands-400.ttf": "/Ecommerce/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
     "static/media/fa-solid-900.woff2": "/Ecommerce/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/ecommerce.png": "/Ecommerce/static/media/ecommerce.a49c114a3d8609e7c3ce.png",
     "static/media/error.svg": "/Ecommerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
     "static/media/fa-brands-400.woff2": "/Ecommerce/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
     "static/media/fa-regular-400.ttf": "/Ecommerce/static/media/fa-regular-400.146404900f7550a9719d.ttf",
     "static/media/sale.webp": "/Ecommerce/static/media/sale.56eb4eedf7672f67656f.webp",
     "static/media/fa-regular-400.woff2": "/Ecommerce/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/ecommerce2.png": "/Ecommerce/static/media/ecommerce2.e0410ecc009a2860f76b.png",
     "static/media/logo1.svg": "/Ecommerce/static/media/logo1.53f7a424c3aedc30a0fb46dc2278137c.svg",
     "static/media/fa-v4compatibility.ttf": "/Ecommerce/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/playstore.svg": "/Ecommerce/static/media/playstore.bdc7a9e57dc86aa06646aec4a651df80.svg",
@@ -19,6 +21,7 @@
     "static/media/fa-v4compatibility.woff2": "/Ecommerce/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "static/media/american-express.svg": "/Ecommerce/static/media/american-express.ae58ac5197ead87a1692adbf4becf867.svg",
     "static/media/tiktok.svg": "/Ecommerce/static/media/tiktok.fafd91ddd92b9cbd87d9ce06e0a3cb95.svg",
+    "static/media/avatar.svg": "/Ecommerce/static/media/avatar.deb822fea1001b6d12ff18c31b23aa28.svg",
     "static/media/slick.svg": "/Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -31,12 +34,12 @@
     "static/media/youtube.svg": "/Ecommerce/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
     "static/media/facebook.svg": "/Ecommerce/static/media/facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
     "static/media/mastercard.svg": "/Ecommerce/static/media/mastercard.1eb3643914d83bac087d4cbb2d9c3d95.svg",
-    "main.b8e88b4e.css.map": "/Ecommerce/static/css/main.b8e88b4e.css.map",
-    "main.6ad81f57.js.map": "/Ecommerce/static/js/main.6ad81f57.js.map",
+    "main.2fedef5e.css.map": "/Ecommerce/static/css/main.2fedef5e.css.map",
+    "main.cd5a34fb.js.map": "/Ecommerce/static/js/main.cd5a34fb.js.map",
     "787.bd02f72e.chunk.js.map": "/Ecommerce/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8e88b4e.css",
-    "static/js/main.6ad81f57.js"
+    "static/css/main.2fedef5e.css",
+    "static/js/main.cd5a34fb.js"
   ]
 }
