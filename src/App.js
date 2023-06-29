@@ -47,7 +47,7 @@ useEffect(() => {
   <CartContext>
     <Toaster/>
   <CounterContextProvider>
-    <Offline> <div className='network'> <i className="fa-solid fa-wifi"></i> Only shown offline (surprise!)</div> </Offline>
+    {/* <Offline> <div className='network'> <i className="fa-solid fa-wifi"></i> Only shown offline (surprise!)</div> </Offline> */}
     <RouterProvider router={routers}></RouterProvider >
     </CounterContextProvider>
   </CartContext>
