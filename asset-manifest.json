@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.c8b83ca7.css",
+    "main.css": "/Ecommerce/static/css/main.ff2df01b.css",
     "main.js": "/Ecommerce/static/js/main.fe7eb090.js",
     "static/js/787.bd02f72e.chunk.js": "/Ecommerce/static/js/787.bd02f72e.chunk.js",
     "static/media/light-patten.svg": "/Ecommerce/static/media/light-patten.ed706aff39a009de4e80.svg",
@@ -34,12 +34,12 @@
     "static/media/youtube.svg": "/Ecommerce/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
     "static/media/facebook.svg": "/Ecommerce/static/media/facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
     "static/media/mastercard.svg": "/Ecommerce/static/media/mastercard.1eb3643914d83bac087d4cbb2d9c3d95.svg",
-    "main.c8b83ca7.css.map": "/Ecommerce/static/css/main.c8b83ca7.css.map",
+    "main.ff2df01b.css.map": "/Ecommerce/static/css/main.ff2df01b.css.map",
     "main.fe7eb090.js.map": "/Ecommerce/static/js/main.fe7eb090.js.map",
     "787.bd02f72e.chunk.js.map": "/Ecommerce/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8b83ca7.css",
+    "static/css/main.ff2df01b.css",
     "static/js/main.fe7eb090.js"
   ]
 }
