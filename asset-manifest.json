@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecommerce/static/css/main.f711c1c7.css",
-    "main.js": "/Ecommerce/static/js/main.83acc5f6.js",
+    "main.css": "/Ecommerce/static/css/main.c256e877.css",
+    "main.js": "/Ecommerce/static/js/main.fe7eb090.js",
     "static/js/787.bd02f72e.chunk.js": "/Ecommerce/static/js/787.bd02f72e.chunk.js",
     "static/media/light-patten.svg": "/Ecommerce/static/media/light-patten.ed706aff39a009de4e80.svg",
     "static/media/fa-solid-900.ttf": "/Ecommerce/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
@@ -34,12 +34,12 @@
     "static/media/youtube.svg": "/Ecommerce/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
     "static/media/facebook.svg": "/Ecommerce/static/media/facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
     "static/media/mastercard.svg": "/Ecommerce/static/media/mastercard.1eb3643914d83bac087d4cbb2d9c3d95.svg",
-    "main.f711c1c7.css.map": "/Ecommerce/static/css/main.f711c1c7.css.map",
-    "main.83acc5f6.js.map": "/Ecommerce/static/js/main.83acc5f6.js.map",
+    "main.c256e877.css.map": "/Ecommerce/static/css/main.c256e877.css.map",
+    "main.fe7eb090.js.map": "/Ecommerce/static/js/main.fe7eb090.js.map",
     "787.bd02f72e.chunk.js.map": "/Ecommerce/static/js/787.bd02f72e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f711c1c7.css",
-    "static/js/main.83acc5f6.js"
+    "static/css/main.c256e877.css",
+    "static/js/main.fe7eb090.js"
   ]
 }
